@@ -2,7 +2,7 @@
 
 Hi Lorraine,
 
-In this repository you will find my notes with regards to getting the Miller home our property as per our requirements. Even a knock-down rebuild of my current home which was built in the 70's would require report and consent to be approved via council due to nature of the odd shaped block.
+In this repository you will find my notes with regards to getting the Miller design on our property as per our requirements. Even a knock-down rebuild of my current home which was built in the 70's would require report and consent to be approved via council due to nature of the odd shaped block.
 
 ---
 ## Build envelope
@@ -15,20 +15,21 @@ Figure 1: Build envelope with front, read & side setbacks
 ---
 ## Miller Ground Floor Sitting
 
-To be more consistent in line with other houses in the court a slight preference as been given to reducing the front violation over the rear violation. 
+To be more consistent in line with other houses in the court a slight preference has been given to reducing the front setback violation over the rear setback violation. 
 
-This sitting of the Miller design on this property tries to achieve the most likely approvable position with regards to rear & front setbacks.
+This sitting of the Miller design on this property tries to achieve the most likely approvable positioning with regards to rear & front setbacks.
 
 ![miller-violations](./miller-violations.svg)
 Figure 2: Miller stting 
 
-The regions marked in orange are violations (ie. the areas of concern that encrouch the setbacks). These violations should however be considered in context of the setback areas.
+The regions marked in orange are the violations (ie. the areas of concern that encrouch the setbacks). These violations should however be considered in context of the setback areas.
 
 |Setback|Total Surface Area|Violation Area|
 |:---:|:---:|:---:|
 |Front (ie. south)|214m<sup>2</sup>|**8m<sup>2</sup>**|
 |Rear (ie. north)|69m<sup>2</sup>|**9m<sup>2</sup>**|
 
+In the context of things, these are the smallest violations that I could achieve which I feel will result in approval by council. Please have your draftsperson verify my sitting position as perhaps they may find a better sitting.
 
 ---
 ## Miller Ground Floor Changes
@@ -70,6 +71,7 @@ Figure 4: Upper level changes
 
 Move BED 5's south wall with window to be Study south wall w/ window & add standard wall to Bed 5 as south wall. 
 
+---
 
 ## Additions that are still no accounted for
 
@@ -79,6 +81,7 @@ Move BED 5's south wall with window to be Study south wall w/ window & add stand
 4. Solar panels and solar battery
 5. UHF antenna connection points in rooms
 
+---
 
 ## Preferences
 
