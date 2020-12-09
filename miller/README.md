@@ -39,6 +39,7 @@ The following are the preferred changes to the ground level:
 2. Add shower to powder room. Independent toilet & small basin is preferred
 3. Move garage entry/exit to east wall
 4. Change Sitting room into BED 6 by adding ROBE & Door. Keep same window! 
+5. Add external double power points
 
 
 Note, BED 6 may get transformed back into Sitting room if we ever decide to sell.
@@ -58,6 +59,7 @@ The following are the preferred changes to the upper level:
 1. Add east window to BED 5
 2. Move 1st east hall window to study
 3. Move BED 5's south wall with window to be Study south wall w/ window & add standard wall to Bed 5 
+4. Create study with ceiling light and double powerpoint
 
 |Original|Changes|
 |:---:|:---:|
@@ -74,3 +76,10 @@ Move BED 5's south wall with window to be Study south wall w/ window & add stand
 1. Day/night blinds or curtains
 2. Exposed concrete of driveway and other areas
 3. Council Crossover 5K?
+4. Solar panels and solar battery
+5. UHF antenna connection points in rooms
+
+
+## Preferences
+
+1. Facade roof design (eg. gable two sides over four sided) that allows greater number of solar panels installed 
