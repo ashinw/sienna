@@ -67,3 +67,10 @@ Figure 4: Upper level changes
 
 
 Move BED 5's south wall with window to be Study south wall w/ window & add standard wall to Bed 5 as south wall. 
+
+
+## Additions that are still no accounted for
+
+1. Day/night blinds or curtains
+2. Exposed concrete of driveway and other areas
+3. Council Crossover 5K?
